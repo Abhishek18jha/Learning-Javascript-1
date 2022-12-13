@@ -7,7 +7,7 @@
 
 ---
 
-Leaning  is so Joy! :joy:
+Leaning  is Full of  Joy! :joy:
 
 My Best Learning Place :office:
 
