@@ -1,2 +1,7 @@
-# Learning-Javascript-1
-Learning JavaScript using Repl
+# Project Name : Learning-Javascript
+
+
+### Learning JavaScript in Repl Online IDE.
+
+> Following are the topics that i will learn
+
