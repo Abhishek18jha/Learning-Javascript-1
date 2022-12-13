@@ -7,3 +7,8 @@
 
 ---
 
+Leaning  is so Joy! :joy:
+
+My Best Learning Place :office:
+
+My Zodiac Sign  :cancer:
