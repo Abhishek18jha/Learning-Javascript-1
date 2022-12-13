@@ -37,6 +37,16 @@ function fib(n) {
   }
   return f[n];
 }
-for (var i = 0; i <= 100; i++) {
+for (var i = 0; i <= 10; i++) {
   console.log(fib(i))
 }
+
+function reverse(str, len) {
+  if (len == str.length) {
+    return;
+  }
+  reverse(str, len + 1);
+  console.log(str[len])
+}
+
+reverse('ramesh', 2)
